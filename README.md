@@ -1,4 +1,35 @@
-### Hi there 👋
+## 👀 Hello there 👋
+
+#### I'm just a lifelong PC enthusiast who now loves his Macbook Pro. A former Technician and Network Admin turned Developer. Teacher at heart
+
+🗣 
+- Swift
+- HTML
+- CSS
+- PHP
+- Javascript  
+
+🖼 
+- Vapor
+- node.js
+
+🥞
+- AWS
+- Firebase
+- Heroku
+
+### My Articles:
+
+#### Concise Code Isn't Always Clean Code:
+https://www.freecodecamp.org/news/concise-code-isnt-always-clean-code/
+#### Developing a reusable Networking Class:
+https://medium.com/swlh/developing-a-reusable-networking-class-66ef1f7566f
+
+#### Recursive Functions - Simply Explained
+https://medium.com/python-in-plain-english/recursive-functions-simply-explained-7b13552f1393
+
+#### Many more:
+https://medium.com/@kenny.dubroff
 
 <!--
 **froggomad/froggomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
