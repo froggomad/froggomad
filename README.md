@@ -7,7 +7,9 @@
 - HTML
 - CSS
 - PHP
-- Javascript  
+- Javascript
+- Objective-C
+- Python
 
 🖼 
 - Vapor
