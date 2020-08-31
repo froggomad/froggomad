@@ -24,7 +24,7 @@
 
 #### Concise Code Isn't Always Clean Code:
 https://www.freecodecamp.org/news/concise-code-isnt-always-clean-code/
-#### Developing a reusable Networking Class:
+#### Developing a Reusable Networking Class:
 https://medium.com/swlh/developing-a-reusable-networking-class-66ef1f7566f
 
 #### Recursive Functions - Simply Explained
