@@ -33,7 +33,7 @@ https://medium.com/python-in-plain-english/recursive-functions-simply-explained-
 #### Many more:
 https://medium.com/@kenny.dubroff
 
-#### Who doesn't love stats?:
+### Who doesn't love stats?:
 ![my GitHub grade :D](https://github-readme-stats.vercel.app/api?username=froggomad&count_private=true&show_icons=true&hide=stars)
 
 <!--
