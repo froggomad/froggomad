@@ -33,6 +33,9 @@ https://medium.com/python-in-plain-english/recursive-functions-simply-explained-
 #### Many more:
 https://medium.com/@kenny.dubroff
 
+#### Who doesn't love stats?:
+![my GitHub grade :D](https://github-readme-stats.vercel.app/api?username=froggomad&count_private=true&show_icons=true&hide=stars)
+
 <!--
 **froggomad/froggomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
