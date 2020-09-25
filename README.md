@@ -33,8 +33,8 @@ https://medium.com/swlh/developing-a-reusable-networking-class-66ef1f7566f
 https://medium.com/python-in-plain-english/recursive-functions-simply-explained-7b13552f1393
 
 #### Many more:
-https://medium.com/@kenny.dubroff
-
+* [My Medium Posts](https://medium.com/@kenny.dubroff)
+* [My DEV Profile](https://dev.to/froggomad)
 <hr>
   
 ### Who doesn't love stats?:
