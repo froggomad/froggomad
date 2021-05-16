@@ -1,6 +1,6 @@
 ## 👀 Hello there 👋
 
-#### I'm just a lifelong PC enthusiast who now loves his Macbook Pro. A former Technician and Network Admin turned Developer. Teacher at heart
+#### I'm just a lifelong PC enthusiast who now loves his Mac. A former Technician and Network Admin turned Developer. Teacher at heart
 
 🗣 
 - Swift
