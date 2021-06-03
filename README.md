@@ -24,6 +24,9 @@
 
 ### My Articles:
 
+#### Intro to Test Driven Development using Swift and Xcode
+https://blog.devgenius.io/intro-to-test-driven-development-tdd-using-swift-and-xcode-12-f81f048923eb
+
 #### Concise Code Isn't Always Clean Code:
 https://www.freecodecamp.org/news/concise-code-isnt-always-clean-code/
 #### Developing a Reusable Networking Class:
