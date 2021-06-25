@@ -24,7 +24,7 @@
 
 ### Open Source Projects:
 
-#### Badge Generator - generate a badge for any UIView
+[Badge Generator - generate a badge for any UIView](https://github.com/froggomad/badgegenerator)
 - Role: Creator/Organizer/Developer
 
 ### My Articles:
