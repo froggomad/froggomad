@@ -22,6 +22,11 @@
 
 <hr>
 
+### Open Source Projects:
+
+#### Badge Generator - generate a badge for any UIView
+- Role: Creator/Organizer/Developer
+
 ### My Articles:
 
 #### Intro to Test Driven Development using Swift and Xcode
