@@ -27,6 +27,10 @@
 [Badge Generator - generate a badge for any UIView](https://github.com/froggomad/badgegenerator)
 - Role: Creator/Organizer/Developer
 
+[Titled Collection View Challenge](https://github.com/froggomad/titled-collection-view-challenge)
+- Role: Author/Creator/Organizer/Developer
+- [Supporting Article](https://medium.com/geekculture/making-mvc-less-massive-and-more-reusable-cf731154ffbe)
+
 ### My Articles:
 
 #### Intro to Test Driven Development using Swift and Xcode
